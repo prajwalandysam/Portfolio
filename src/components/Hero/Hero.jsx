@@ -15,7 +15,7 @@ function Hero() {
           Contact Me via email
         </a>{" "}
        
-        <a className={styles.contactBtn} href="https://drive.google.com/file/d/16-l_P3PkL3Kzu6duJw11k8rtxCtyvT-r/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+        <a className={styles.contactBtn} href="https://drive.google.com/drive/folders/1Fe3_u-pVYmLjLjTaWK_PmHbYrR77o1iD?usp=drive_link" target="_blank" rel="noopener noreferrer">
             View My Resume
         </a>
         </div>

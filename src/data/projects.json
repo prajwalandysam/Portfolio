@@ -1,26 +1,26 @@
 [
   {
-    "title": "Memory management System",
-    "imageSrc": "projects/memorymanagement.png",
-    "description": "This C++ program implements a simple memory manager that handles memory allocation, deallocation, and compaction. It uses a list of memory blocks to manage both used and free memory spaces. The memory manager reads commands from an input file to allocate, deallocate, and assign memory.",
-    "skills": ["C++", "DSA"],
-    "demo": "",
-    "source": "https://www.github.com"
+    "title": "Federated Learning Simulation",
+    "imageSrc": "projects/Federatedlogo.jpeg",
+    "description": "Developed a machine learning model using Federated Learning to predict energy output across  multiple power stations while ensuring data privacy and avoiding a single point of failure.",
+    "skills": ["Machine Learning", "Python"],
+  
+    "source": "https://github.com/prajwalandysam/FYP-Group-3.git"
+  },
+  {
+    "title": "Traveling Salesman Problem Solver with A* Search",
+    "imageSrc": "projects/AI.png",
+    "description": "Developed a C++ program to solve the Traveling Salesperson Problem using the A* search algorithm. It incorporates a Minimum Spanning Tree (MST) heuristic to optimize the search process, demonstrating efficient pathfinding and cost minimization in graph traversal.",
+  
+    "skills": ["C++", "AI" ,"Heuristics"],
+    "source": "git@github.com:prajwalandysam/TSP-with-MST.git"
   },
   {
     "title": "Custom UNIX shell Implementation",
     "imageSrc": "projects/project.png",
-    "description": "Developed a custom Unix shell in C as part of a systems programming course, implementing key functionalities such as command parsing process creation and management, and input/output redirection.",
+    "description": "Built a custom UNIX shell in C that includes command parsing, process management, and I/O redirection, enhancing understanding of OS concepts like process lifecycles, IPC, and signal handling.",
     "skills": ["C", "Terminal"],
-    "demo": "",
-    "source": "https://github.com/prajwalandysam/UNIX-Shell.git"
-  },
-  {
-    "title": "Federated Learning Simulation",
-    "imageSrc": "projects/Federatedlogo.jpeg",
-    "description": "Simulated Federated Learning using Python and TensorFlow, training a global model across multiple devices without exchanging raw data. The project involved implementing a server and client architecture to train a global model using local data.",
-    "skills": ["Machine Learning", "Python"],
-    "demo": "",
+  
     "source": "https://github.com/prajwalandysam/UNIX-Shell.git"
   }
 ]
