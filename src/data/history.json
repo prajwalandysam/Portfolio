@@ -1,0 +1,10 @@
+[
+  {
+    "role": "Intern Analyst",
+    "organisation": "Wells Fargo",
+    "startDate": "May, 2024",
+    "endDate": "July, 2024",
+    "experiences": ["Worked with the PTIA team on automating tasks using UiPath.","Streamlined workflows and improved efficiency through task automation.","Contributed to optimizing processes via robotic process automation (RPA)."],
+    "imageSrc": "history/wells.png"
+  }
+]

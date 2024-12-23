@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Memory management System",
+    "imageSrc": "projects/memorymanagement.png",
+    "description": "This C++ program implements a simple memory manager that handles memory allocation, deallocation, and compaction. It uses a list of memory blocks to manage both used and free memory spaces. The memory manager reads commands from an input file to allocate, deallocate, and assign memory.",
+    "skills": ["C++", "DSA"],
+    "demo": "",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Custom UNIX shell Implementation",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a custom Unix shell in C as part of a systems programming course, implementing key functionalities such as command parsing process creation and management, and input/output redirection.",
+    "skills": ["C", "Terminal"],
+    "demo": "",
+    "source": "https://github.com/prajwalandysam/UNIX-Shell.git"
+  },
+  {
+    "title": "Federated Learning Simulation",
+    "imageSrc": "projects/Federatedlogo.jpeg",
+    "description": "Simulated Federated Learning using Python and TensorFlow, training a global model across multiple devices without exchanging raw data. The project involved implementing a server and client architecture to train a global model using local data.",
+    "skills": ["Machine Learning", "Python"],
+    "demo": "",
+    "source": "https://github.com/prajwalandysam/UNIX-Shell.git"
+  }
+]
