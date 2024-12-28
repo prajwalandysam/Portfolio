@@ -13,8 +13,7 @@ function Hero() {
 
         <a className={styles.contactBtn} href="mailto:rprajwalsam@gmail.com">
           Contact Me via email
-        </a>{" "}
-       
+        </a>      
         <a className={styles.contactBtn} href="https://drive.google.com/drive/folders/1Fe3_u-pVYmLjLjTaWK_PmHbYrR77o1iD?usp=drive_link" target="_blank" rel="noopener noreferrer">
             View My Resume
         </a>
